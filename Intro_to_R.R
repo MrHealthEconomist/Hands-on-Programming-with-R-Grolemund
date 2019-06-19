@@ -1,4 +1,4 @@
-setwd("/Users/joshuamusson/Desktop/Data_Analytics/Rstudio/Data sets/Intro_to_R")
+
 die <- 1:6
  ls()
 
