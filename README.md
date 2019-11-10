@@ -1,5 +1,5 @@
-# Hands-on-Programming-with-R-Grolemund
-Worked through textbook by Garrett Grolemund
+# Hands on Programming with R
+Bby Garrett Grolemund
 
 # Buy on O'Reily Media
 https://www.oreilly.com/library/view/hands-on-programming-with/9781449359089/
